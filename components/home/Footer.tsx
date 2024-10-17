@@ -33,7 +33,7 @@ export default function Footer() {
 
   const SupportLinks = [
     {
-      title: 'hello world',
+      title: 'hchat 01',
       href: 'https://chat4o.ai/',
     },
     {
